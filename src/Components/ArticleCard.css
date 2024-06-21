@@ -1,0 +1,13 @@
+.article-card {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+  }
+  
+  .article-card img {
+    width: 100%;
+  }
+  
